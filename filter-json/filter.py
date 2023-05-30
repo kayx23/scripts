@@ -2,7 +2,7 @@ import json
 
 def filter_json(data):
     """
-    filter out items with name containing apisix.
+    filter out items with name containing apifox.
     """
     if isinstance(data, dict):
         # If data is a dictionary
